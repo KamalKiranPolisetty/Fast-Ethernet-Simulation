@@ -1,0 +1,21 @@
+Sending request to CSP to send data Frame 1 To Station 3
+Receive positive reply (permission) from CSP to send data frame 1 to SP 3 
+Send (via CSP) data frame 1 to SP 3 
+Sending request to CSP to send data Wait 2
+Sending request to CSP to send data Frame 2 To Station 1
+Sending request to CSP to send data Frame 3 To Station 3
+Receive positive reply (permission) from CSP to send data frame 3 to SP 3 
+Send (via CSP) data frame 3 to SP 3 
+Sending request to CSP to send data Frame 4 To Station 2
+Receive positive reply (permission) from CSP to send data frame 4 to SP 2 
+Send (via CSP) data frame 4 to SP 2 
+Sending request to CSP to send data Frame 1 To Station 3
+Receive positive reply (permission) from CSP to send data frame 1 to SP 3 
+Send (via CSP) data frame 1 to SP 3 
+Sending request to CSP to send data Wait 3
+Sending request to CSP to send data Frame 2 To Station 1
+Sending request to CSP to send data Frame 3 To Station 3
+Receive positive reply (permission) from CSP to send data frame 3 to SP 3 
+Send (via CSP) data frame 3 to SP 3 
+Sending request to CSP to send data Frame 4 To Station 2
+Sending request to CSP to send data 

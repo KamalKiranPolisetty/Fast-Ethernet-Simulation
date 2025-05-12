@@ -1,0 +1,12 @@
+Frame 1 To Station 3
+Frame 2 To Station 4
+Frame 1 To Station 7
+Wait 2
+Frame 2 To Station 4
+Frame 3 To Station 3
+Frame 2 To Station 2
+Wait 3
+Frame 3 To Station 10
+Frame 4 To Station 1
+
+

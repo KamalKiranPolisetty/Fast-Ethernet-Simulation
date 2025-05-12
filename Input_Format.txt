@@ -1,0 +1,6 @@
+gcc Communcation_Switch_Process.c -o CSP
+
+gcc Station_Process.c -o SP
+
+
+Station_Process1 5455 1 & ./SP 127.0.0.1 5455 2 & ./SP 127.0.0.1 5455 3 & ./SP 127.0.0.1 5455 4 & ./SP 127.0.0.1 5455 5 & ./SP 127.0.0.1 5455 6 &  ./SP 127.0.0.1 5455 7 & ./SP 127.0.0.1 5455 8 & ./SP 127.0.0.1 5455 9 & ./SP 127.0.0.1 5455 10
