@@ -12,7 +12,7 @@ A client-server implementation of Fast Ethernet simulation where each station in
 
 ## ✨ Key Features
 
-- **🔄 Fast Ethernet Simulation** - Simulates network behavior and data transmissionn
+- **🔄 Fast Ethernet Simulation** - Simulates network behavior and data transmission
 - **🖥️ Client-Server Architecture** - Uses TCP protocol for reliable communication
 - **🔌 Multiple Stations** - Supports up to 10 concurrent station processes
 - **📊 Activity Logging** - Comprehensive logging of all network activities
