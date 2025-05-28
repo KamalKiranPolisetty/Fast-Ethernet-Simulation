@@ -6,7 +6,7 @@
 
 ## 🌟 Overview
 
-A client-server implementation of Fast Ethernet simulation where each station in the network is emulated by a separate process. The communication switch acts as a central server, while multiple station processes act as clients. The simulation implements socket API programming to facilitate communication between stations through the central server.
+A client-server implementation of Fast Ethernet simulation where each station in the network is emulated by a separate process. The communication switch acts as a central server, while multiple station processes act as clients. The simulation implements socket API programming to facilitate communication between stations through the central server..
 
 &nbsp;
 
